@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android"
+    android:oneshot="true">
+    <item
+        android:drawable="@drawable/lock_open_1"
+        android:duration="60" />
+
+    <item
+        android:drawable="@drawable/lock_open_2"
+        android:duration="60" />
+    <item
+        android:drawable="@drawable/lock_open_3"
+        android:duration="60" />
+    <item
+        android:drawable="@drawable/lock_open_4"
+        android:duration="60" />
+    <item
+        android:drawable="@drawable/lock_open_5"
+        android:duration="60" />
+    <item
+        android:drawable="@drawable/lock_open_6"
+        android:duration="60" />
+    <item
+        android:drawable="@drawable/lock_open_7"
+        android:duration="60" />
+    <item
+        android:drawable="@drawable/lock_open_8"
+        android:duration="60" />
+    <item
+        android:drawable="@drawable/lock_open_9"
+        android:duration="60" />
+    <item
+        android:drawable="@drawable/lock_open_10"
+        android:duration="60" />
+    <item
+        android:drawable="@drawable/lock_open_11"
+        android:duration="60" />
+    <item
+        android:drawable="@drawable/lock_open_12"
+        android:duration="60" />
+    <item
+        android:drawable="@drawable/lock_open_13"
+        android:duration="60" />
+    <item
+        android:drawable="@drawable/lock_open_14"
+        android:duration="60" />
+    <item
+        android:drawable="@drawable/lock_open_15"
+        android:duration="60" />
+    <item
+        android:drawable="@drawable/lock_open_16"
+        android:duration="60" />
+    <item
+        android:drawable="@drawable/lock_open_17"
+        android:duration="60" />
+    <item
+        android:drawable="@drawable/lock_open_18"
+        android:duration="60" />
+    <item
+        android:drawable="@drawable/lock_open_19"
+        android:duration="60" />
+    <item
+        android:drawable="@drawable/lock_open_20"
+        android:duration="60" />
+    <item
+        android:drawable="@drawable/lock_open_21"
+        android:duration="60" />
+
+</animation-list>
