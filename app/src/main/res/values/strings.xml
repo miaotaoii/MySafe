@@ -1,3 +1,166 @@
 <resources>
     <string name="app_name">MySafe</string>
+
+
+    <string name="LanguageActivity_text_title">Language Seclect</string>
+
+    <string name="LanguageActivity_text_language">English</string>
+
+    <string name="LanguageActivity_text_title_language">Language</string>
+
+    <string name="LanguageActivity_button_back">back</string>
+
+    <string name="BluetoothConnectActivity_text_title">Bluetooth Connection</string>
+
+    <string name="BluetoothConnectActivity_button_scanning">scanning</string>
+
+    <string name="BluetoothConnectActivity_text_hint">Your device is under searching</string>
+
+    <string name="BluetoothConnectActivity_button_back">back</string>
+
+    <string name="BluetoothConnectActivity_text_device_name">Device name:MaySafe</string>
+
+    <string name="BluetoothConnectActivity_text_connect_hint">Please input Bluetooth paining code</string>
+
+    <string name="BluetoothConnectActivity_button_connect">Connect</string>
+
+    <string name="MainActivity_text_title">Dear User</string>
+
+    <string name="MainActivity_text_hint">My Safe</string>
+
+    <string name="MainActivity_text_status">Status</string>
+
+    <string name="MainActivity_text_battery_power">BatteryPower</string>
+
+    <string name="MainActivity_text_vibration_alarm">VibrationAlarm</string>
+
+    <string name="MainActivity_text_silent_mode">SilentMode</string>
+
+    <string name="MainActivity_button_open_close">Open/Close</string>
+
+    <string name="MainActivity_button_search">Search</string>
+
+    <string name="MainActivity_button_set_up">Set Up</string>
+
+    <string name="LockActivity_text_open_title">OpenSafe</string>
+
+    <string name="LockActivity_button_back">back</string>
+
+    <string name="LockActivity_text_hint">Please enter the password</string>
+
+    <string name="LockActivity_text_opening">Opening</string>
+
+    <string name="LockActivity_text_open">Password is correct\nThe safe is opening</string>
+
+    <string name="LockActivity_text_three">Incorrect entry for 3 times</string>
+
+    <string name="LockActivity_text_open_hint">Incorrect password\nThe safe is locked for 180 seconds</string>
+
+    <string name="LockActivity_text_close_title">CloseSafe</string>
+
+    <string name="LockActivity_button_close">close</string>
+
+    <string name="LockActivity_text_closing">Closing</string>
+
+    <string name="LockActivity_text_close">Closed</string>
+
+    <string name="searchlnfoActivity_text_title">Trace Safe</string>
+
+    <string name="searchlnfoActivity_button_back">back</string>
+
+    <string name="searchlnfoActivity_text_hint">Safe Open Record</string>
+
+    <string name="searchlnfoActivity_text_key">Open by using key</string>
+
+    <string name="searchlnfoActivity_text_app">Open by using APP</string>
+
+    <string name="SetupActivity_text_title">Setup Safe</string>
+
+    <string name="SetupActivity_text_search_for_my_safe">Search For My Safe</string>
+
+    <string name="SetupActivity_text_safe_name">Safe Name</string>
+
+    <string name="SetupActivity_text_unlock_password">Unlock Password</string>
+
+    <string name="SetupActivity_text_bluetooth_pairing_code">Bluetooth pairing code</string>
+
+    <string name="SetupActivity_text_safe_vibration_alarm">Safe Vibration Alarm</string>
+
+    <string name="SetupActivity_text_safe_silent_mode">Safe Silent Mode</string>
+
+    <string name="SetupActivity_text_app_operation_tone">APP Operation Tone</string>
+
+    <string name="SetupActivity_text_language_select">Language Select</string>
+
+    <string name="SetupActivity_button_back">back</string>
+
+    <string name="SafeNameActivity_text_title">Name</string>
+
+    <string name="SafeNameActivity_text_name">Name:May Safe</string>
+
+    <string name="SafeNameActivity_text_hint">New device name</string>
+
+    <string name="SafeNameActivity_text">Letters and numbers up to 12 characters</string>
+
+    <string name="SafeNameActivity_button_ok">OK</string>
+
+    <string name="SafeNameActivity_button_back">back</string>
+
+    <string name="PromptToneActivity_text_title">Operation prompt tone</string>
+
+    <string name="PromptToneActivity_text_key_tone">Key Tone(Default)</string>
+
+    <string name="PromptToneActivity_text_trill">Trill</string>
+
+    <string name="PromptToneActivity_text_crescendo">Crescendo</string>
+
+    <string name="PromptToneActivity_text_robot">Robot</string>
+
+    <string name="PromptToneActivity_text_digital_sound">Digital sound</string>
+
+    <string name="PromptToneActivity_text_bell_tower">Bell tower</string>
+
+    <string name="PromptToneActivity_text_sonar">Sonar</string>
+
+    <string name="PromptToneActivity_text_harp">Harp</string>
+
+    <string name="PromptToneActivity_text_alert_tone">Alert tone</string>
+
+    <string name="ChangePasswordActivity_text_title">Password of the lock</string>
+
+    <string name="ChangePasswordActivity_text_original">Original password</string>
+
+    <string name="ChangePasswordActivity_text_original_hint">  Please enter original password</string>
+
+    <string name="ChangePasswordActivity_text_new">New password</string>
+
+    <string name="ChangePasswordActivity_text_new_hint">  Please enter new password</string>
+
+    <string name="ChangePasswordActivity_text_new_hint_confirm">  Please confirm new password</string>
+
+    <string name="ChangePasswordActivity_text">Password is 3 to 8 personal numbers</string>
+
+    <string name="ChangePasswordActivity_button_ok">OK</string>
+
+    <string name="ChangePasswordActivity_button_back">back</string>
+
+    <string name="PariringCodeActivity_text_title">Bluetooth pairing code</string>
+
+    <string name="PariringCodeActivity_text_hint">Bluetooth pairing code is the only to connect mobilephone and safe\nIN order to prevent other mobilephones to be connected with safe,we suggest to modify original manufacturing code to impove safe level</string>
+
+    <string name="PariringCodeActivity_text_original">Original pairing code</string>
+
+    <string name="PariringCodeActivity_text_original_hint">Please enter original code</string>
+
+    <string name="PariringCodeActivity_text_new">New pairing code</string>
+
+    <string name="PariringCodeActivity_text_new_hint">Please enter new pairing code</string>
+
+    <string name="PariringCodeActivity_text_new_hint_confirm">Please confirm new pairing code</string>
+
+    <string name="PariringCodeActivity_text">Only 3 to 8 numbers are alloewd</string>
+
+    <string name="PariringCodeActivity_button_ok">OK</string>
+
+    <string name="PariringCodeActivity_button_back">back</string>
 </resources>
