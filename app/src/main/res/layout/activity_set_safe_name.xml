@@ -55,6 +55,7 @@
         android:textSize="20sp" />
 
     <EditText
+        android:padding="6dp"
         android:id="@+id/editText"
         android:layout_width="324dp"
         android:layout_height="47dp"
@@ -90,5 +91,15 @@
         android:layout_marginRight="48dp"
         android:layout_marginTop="37dp"
         android:background="@drawable/ok_button_enable" />
+
+    <Button
+        android:layout_width="20dp"
+        android:layout_height="20dp"
+        android:id="@+id/button8"
+        android:background="@drawable/editTextRightDrawable"
+        android:layout_marginRight="10dp"
+        android:layout_above="@+id/textView2"
+        android:layout_alignEnd="@+id/editText"
+        android:layout_marginBottom="10dp" />
 
 </RelativeLayout>
