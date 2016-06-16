@@ -13,6 +13,7 @@
         android:orientation="vertical">
 
         <Button
+            android:onClick="onClick"
             android:id="@+id/back_button"
             android:layout_width="40dp"
             android:layout_height="16dp"
@@ -46,6 +47,7 @@
         android:textSize="20sp" />
 
     <TextView
+        android:id="@+id/text"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_alignTop="@+id/textView"
@@ -81,6 +83,7 @@
         android:textSize="15sp" />
 
     <Button
+        android:onClick="onClick"
         android:id="@+id/ok_button"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
@@ -90,13 +93,14 @@
         android:layout_marginLeft="48dp"
         android:layout_marginRight="48dp"
         android:layout_marginTop="37dp"
-        android:background="@drawable/ok_button_enable" />
+        android:background="@drawable/ok_button_unable" />
 
     <Button
+        android:onClick="onClick"
         android:layout_width="20dp"
         android:layout_height="20dp"
         android:id="@+id/button8"
-        android:background="@drawable/editTextRightDrawable"
+        android:background="@drawable/edittextrightdrawable"
         android:layout_marginRight="10dp"
         android:layout_above="@+id/textView2"
         android:layout_alignEnd="@+id/editText"
